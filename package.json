@@ -1,0 +1,23 @@
+{
+  "name": "dapp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.5",
+    "path-browserify": "^1.0.1"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^2.2.5",
+    "create-react-app": "^5.0.1",
+    "dotenv": "^16.0.3",
+    "util": "^0.12.5"
+  }
+}
